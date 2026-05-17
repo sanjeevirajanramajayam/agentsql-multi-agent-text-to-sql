@@ -46,7 +46,7 @@ ui.py            # Streamlit chat interface
 
 ## Prerequisites
 
-- Python
+- Python 3.9+ (recommended)
 - A Google AI API key (`GOOGLE_API_KEY`)
 
 ## Setup
