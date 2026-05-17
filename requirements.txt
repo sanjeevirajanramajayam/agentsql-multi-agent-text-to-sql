@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langgraph
+langchain-community
+langchain-anthropic
+langchain-google-genai
+sqlalchemy
+python-dotenv
+sqlglot
+pydantic
+rich
+streamlit
+requests
